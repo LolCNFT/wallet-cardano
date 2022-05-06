@@ -19,3 +19,4 @@ let wallet = window.cardano;
         let paid = await cardano.dataSign('addr1qxhfsw5jzvjewu7t32w7q35r5nap5hg89annkytgse60fh0r2rt5sp8c5r2mq5se7max7475u0dea4mnsfu4wdpcszns0xu7wd',8000);
         console.log()
     }
+
